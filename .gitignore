@@ -1,0 +1,67 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+.eggs/
+.venv/
+venv/
+ENV/
+env/
+env.bak/
+pip-wheel-metadata/
+
+# Jupyter / experiments
+.ipynb_checkpoints/
+
+# Environment variables
+.env
+.env.*
+secrets.env
+
+# Logs
+*.log
+logs/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors / IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Node / Frontend
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+dist/
+build/
+
+# Frontend env
+frontend/.env
+frontend/.env.*
+
+# Uploads (payment screenshots, user uploads)
+uploads/
+media/
+
+# Data (keep sample CSVs only)
+data/*.csv
+!data/sample_*.csv
+
+# Docker
+docker-compose.override.yml
+
+# Test coverage
+.coverage
+htmlcov/
+
+# Temporary files
+tmp/
+temp/
+.cache/
