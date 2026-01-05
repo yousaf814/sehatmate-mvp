@@ -1,0 +1,2 @@
+event_id,doctor_id,patient_id,event_type,timestamp
+1,doc1,p1,session_created,2026-01-05
