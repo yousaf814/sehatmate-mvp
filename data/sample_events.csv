@@ -1,2 +1,3 @@
 event_id,doctor_id,patient_id,event_type,timestamp
-1,doc1,p1,session_created,2026-01-05
+evt1,doc1,p_demo1,session_created,2026-01-05T10:00:00Z
+evt2,doc2,p_demo2,message_sent,2026-01-05T10:05:00Z
