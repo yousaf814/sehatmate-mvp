@@ -1,9 +1,3 @@
-> ⚠️ **Important Disclaimer**  
-> This system provides **preliminary advice and scheduling support only**.  
-> It does **NOT** provide medical diagnosis and does **NOT** replace licensed medical professionals.
-
----
-
 ## What It Will Do
 
 ### Doctor-First Chat Consults
@@ -14,3 +8,9 @@
   - Request a call  
 - Clinics reduce waiting-room crowding  
 - Doctors gain **time-leveraged income**
+
+> ⚠️ **Important Disclaimer**  
+> This system provides **preliminary advice and scheduling support only**.  
+> It does **NOT** provide medical diagnosis and does **NOT** replace licensed medical professionals.
+
+---
