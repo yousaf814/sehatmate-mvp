@@ -1,1 +1,30 @@
 clinic_name,city,phone,notes
+
+clinic_name,city,focus,contact_phone,contact_email,priority_reason,notes
+SJ Telehealth Services,Islamabad,Remote Consultations,0514832540,sjtelehealth@gmail.com
+,Already using WhatsApp and calls so pain is obvious,High tech acceptance and fast decisions
+Telemed Polyclinic,Bahria Enclave Islamabad,General Practice,03330517754,telemedpolyclinic@gmail.com
+,Small private tele clinic open to pilots,Very likely to test MVP
+Virtual Doctor,Lahore,Online Consultations,03144069795,mail@virtualdoctor.com.pk
+,Already charging for consults but workflow is weak,Easy comparison pitch
+Fitwell Hub,Islamabad,General + Lifestyle Medicine,03111122338,info@fitwellhub.pk
+,Digital-first startup mindset,Used to young founders
+Fitwell Hub Karachi,Karachi,General Practice,03111122338,info@fitwellhub.pk
+,Same product across cities,Scalable early adopter
+Islamabad Specialists Clinic,Islamabad,General + Specialists,03430000433,info@islamabadspecialistsclinic.com
+,High patient load with phone-based intake,Needs triage badly
+City Care Hospital,Rawalpindi,Pediatrics + General,03311313275,info@citycare-hospital.com
+,Busy OPD and parents calling repeatedly,Doctor time wasted daily
+Askari Medical Center,Lahore,Family Medicine,04238900400,,Private society clinic with paying patients,Doctors control decisions
+Shifa Medical Centre Satellite,Rawalpindi,General Practice,0514933444,,Urban overload clinic,Manual patient handling
+Fatima Memorial Telemedicine,Lahore,Women + Children,03204455147,,Already has telemedicine but not optimized,Slow decision cycle
+Shalamar Hospital OPD,Lahore,General + Pediatrics,042111205205,,Very high OPD load,Bureaucracy risk
+Memon Medical Institute Tele Clinic,Karachi,Multi-specialty,021111664664,info@mmi.edu.pk
+,Structured private hospital,Formal approvals required
+Liaquat National Telemedicine,Karachi,Multi-specialty,02134413010,,Large hospital brand,Very slow pilot onboarding
+Shifa eShifa Tele Clinics,Islamabad,Multi-specialty Telemedicine,051111111567,info@eshifa.org
+,Already has solution,Hard to displace
+Sehat Kahani,Karachi,General Telemedicine,,support@sehatkahani.com
+,Direct competitor,Not a customer
+doctHERs,Karachi,Women-focused Telehealth,,info@docthers.com
+,Direct competitor,Learning reference only
