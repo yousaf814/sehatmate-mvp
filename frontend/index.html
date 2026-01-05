@@ -1,1 +1,22 @@
-
+<!doctype html>
+<html>
+<head><meta charset="utf-8"><title>SehatMate Demo</title></head>
+<body>
+<h2>SehatMate — Select a Doctor</h2>
+<div id="doctors"></div>
+<script>
+fetch('/doctors')
+  .then(r=>r.json())
+  .then(data=>{
+    const root = document.getElementById('doctors');
+    data.doctors.forEach(d=>{
+      const div = document.createElement('div');
+      div.style.border="1px solid #ccc"; div.style.padding="8px"; div.style.margin="8px";
+      div.innerHTML = `<b>${d.name}</b> (${d.specialty}) - PKR ${d.fee_pkr} <br/> ${d.city} <br/> <button onclick="alert('Demo: select ${d.name}')">Talk to this doctor</button>`;
+      root.appendChild(div);
+    })
+  })
+  .catch(e=>document.getElementById('doctors').innerText="Error loading doctors");
+</script>
+</body>
+</html>
